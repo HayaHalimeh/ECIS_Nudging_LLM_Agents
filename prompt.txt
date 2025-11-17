@@ -1,0 +1,4 @@
+I’m planning a meal for my friends tomorrow. After some quick consideration, I realize I’m still missing a few products.
+1. Go to the online supermarket http://127.0.0.1:8000/
+2. Learn about the different products and select your preferred product in each category
+3. Follow the instructions on the website carefully to complete your purchase.

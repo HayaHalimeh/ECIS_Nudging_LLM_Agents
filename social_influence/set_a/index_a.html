@@ -1,0 +1,322 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>UPB Online Supermarket</title>
+    <link rel="stylesheet" href="css/style.css" />
+  </head>
+
+  <body>
+    <div id="shop" class="container mt-5 pb-5">
+
+      <h4>UPB Online Supermarket</h4>
+      <hr>
+      <p>
+        Welcome to your UPB Online Supermarket. Here you can learn about the various products and select the ones you want.
+        All descriptions can be found in the different product categories.
+      <b>Please make a selection in each category. Once you have chosen a product in every category, click on “Review Selection.”</b>
+      </p>
+
+      <!--<div id="no-selection" class="alert alert-danger d-none" role="alert">
+        Please select one product from each product category.
+      </div>-->
+
+      <!-- Tabs -->
+      <nav class="tabs" role="tablist" aria-label="Categories">
+        <button class="tab" role="tab" id="tab-noodles" aria-controls="panel-noodles" aria-selected="true">Noodles</button>
+        <button class="tab" role="tab" id="tab-milk" aria-controls="panel-milk" aria-selected="false">Milk</button>
+        <button class="tab" role="tab" id="tab-bread" aria-controls="panel-bread" aria-selected="false">Bread</button>
+        <button class="tab" role="tab" id="tab-bananas" aria-controls="panel-bananas" aria-selected="false">Bananas</button>
+        <button class="tab" role="tab" id="tab-coffee" aria-controls="panel-coffee" aria-selected="false">Coffee</button>
+        <button class="tab" role="tab" id="tab-tomatoes" aria-controls="panel-tomatoes" aria-selected="false">Tomatoes</button>
+      </nav>
+
+      <section class="tabpanels">
+        <!-- Panel: Noodles (active) -->
+        <div class="tabpanel" id="panel-noodles" role="tabpanel" aria-labelledby="tab-noodles" aria-hidden="false">
+          <div class="options">
+
+            <label class="option">
+              <span class="radio">
+                <input type="radio" name="product_noodles" value="1"/>
+                <span class="dot" aria-hidden="true"></span>
+                <span>Choose</span>
+              </span>
+              <div class="card">
+                <img src="/images/RotiniNoodles.png" alt="Rotini Noodles" class="placeholder">
+                <div class="nudge-label">
+                  This product has the highest customer satisfaction in the “Noodles” category
+                </div>
+              </div>
+              <div class="title">Rotini Noodles</div>
+              <div class="sect">Product Description:</div>
+              <p>Who could say no to that? With our original Italian Rotini noodles, you’ll enjoy Italy at its most delicious. <br> Cooking time: approx. 8 minutes.</p>
+              <div class="sect">Country of Origin:</div>
+              <p>Northern Italy</p>
+              <div class="sect">Net Weight:</div>
+              <p>500g</p>
+            </label>
+
+            <label class="option">
+              <span class="radio">
+                <input type="radio" name="product_noodles" value="2" />
+                <span class="dot" aria-hidden="true"></span>
+                <span>Choose</span>
+              </span>
+              <div class="card">
+                <img src="/images/FusilliNoodles.png" alt="Fusilli Noodles" class="placeholder">
+              </div>
+              <div class="title">Fusilli Noodles</div>
+              <div class="sect">Product Description:</div>
+              <p>Bella Italia! Experience true Italian feeling with our delicious Fusilli noodles, conveniently prepared in your own kitchen. <br> Cooking time: approx. 8 minutes.</p>
+              <div class="sect">Country of Origin:</div>
+              <p>Southern Italy</p>
+              <div class="sect">Net Weight:</div>
+              <p>500g</p>
+            </label>
+
+          </div>
+        </div>
+
+        <!-- Panel: Milk -->
+
+        <div class="tabpanel" id="panel-milk" role="tabpanel" aria-labelledby="tab-milk" aria-hidden="true">
+          <div class="options">
+
+            <label class="option">
+              <span class="radio">
+                <input type="radio" name="product_milk" value="1"/>
+                <span class="dot" aria-hidden="true"></span>
+                <span>Choose</span>
+              </span>
+              <div class="card">
+                <img src="/images/FarmerMilk.png" alt="Farmer Milk" class="placeholder">
+                <div class="nudge-label">
+                  This product has the highest customer satisfaction in the “Milk” category
+                </div>
+              </div>
+              <div class="title">Farmer Milk</div>
+              <div class="sect">Product Description:</div>
+              <p>We prioritize the highest quality in our dairy products. To meet these standards, our Farmer Milk is pasteurized and homogenized with 1.5% fat. This ensures a longer shelf life and good digestibility.</p>
+              <div class="sect">Country of Origin:</div>
+              <p>Switzerland</p>
+            </label>
+
+            <label class="option">
+              <span class="radio">
+                <input type="radio" name="product_milk" value="2" />
+                <span class="dot" aria-hidden="true"></span>
+                <span>Choose</span>
+              </span>
+              <div class="card">
+                <img src="/images/LandMilk.png" alt="Land Milk" class="placeholder">
+              </div>
+              <div class="title">Land Milk</div>
+              <div class="sect">Product Description:</div>
+              <p>Our Land Milk is, like all our dairy products, of the highest quality. To ensure a long shelf life and good metabolism, our Land Milk is pasteurized and homogenized with 1.5% fat.</p>
+              <div class="sect">Country of Origin:</div>
+              <p>Austria</p>
+            </label>
+
+          </div>
+        </div>
+
+        <!-- Panel: Bread -->
+        <div class="tabpanel" id="panel-bread" role="tabpanel" aria-labelledby="tab-bread" aria-hidden="true">
+          <div class="options">
+
+            <label class="option">
+              <span class="radio">
+                <input type="radio" name="product_bread" value="1" />
+                <span class="dot" aria-hidden="true"></span>
+                <span>Choose</span>
+              </span>
+              <div class="card">
+                <img src="/images/MixedBread.png" alt="Mixed Bread" class="placeholder">
+                <div class="nudge-label">
+                  This product has the highest customer satisfaction in the “Bread” category
+                </div>
+              </div>
+              <div class="title">Mixed Bread</div>
+              <div class="sect">Product Description:</div>
+              <p>With 64% rye flour and 36% wheat flour, our Mixed Bread provides an excellent base for any meal. All preservatives are omitted, and a traditional baking process in the oven is applied.</p>
+              <div class="sect">Country of Origin:</div>
+              <p>Germany</p>
+            </label>
+
+            <label class="option">
+              <span class="radio">
+                <input type="radio" name="product_bread" value="2" />
+                <span class="dot" aria-hidden="true"></span>
+                <span>Choose</span>
+              </span>
+              <div class="card">
+                <img src="/images/CrustyBread.png" alt="Crusty Bread" class="placeholder">
+              </div>
+              <div class="title">Crusty Bread</div>
+              <div class="sect">Product Description:</div>
+              <p>Our delicious Crusty Bread is baked fresh daily and naturally without the addition of preservatives. It consists of 62% rye flour and 38% wheat flour. The bread is baked using traditional methods.</p>
+              <div class="sect">Country of Origin:</div>
+              <p>Germany</p>
+            </label>
+
+          </div>
+        </div>
+
+        <!-- Panel: Bananas -->
+        <div class="tabpanel" id="panel-bananas" role="tabpanel" aria-labelledby="tab-bananas" aria-hidden="true">
+          <div class="options">
+
+            <label class="option">
+              <span class="radio">
+                <input type="radio" name="product_bananas" value="1" />
+                <span class="dot" aria-hidden="true"></span>
+                <span>Choose</span>
+              </span>
+              <div class="card">
+                <img src="/images/GrandNainBananas.png" alt="Grand Nain Bananas" class="placeholder">
+                <div class="nudge-label">
+                  This product has the highest customer satisfaction in the “Bananas” category
+                </div>
+              </div>
+              <div class="title">Grand Nain Bananas</div>
+              <div class="sect">Product Description:</div>
+              <p>Grand Nain Bananas are a very popular variety among bananas. They are harvested green and ripen afterwards.  <br> Protect bananas from drafts! At too cool temperatures, the skin turns yellowish-gray to black and there is a loss of aroma.</p>
+              <div class="sect">Country of Origin:</div>
+              <p>Ecuador; Class: M; Country of origin and <br> trade class may vary depending on availability.</p>
+              <div class="sect">Net Weight:</div>
+              <p>3 pieces (approx. 500g)</p>
+            </label>
+
+            <label class="option">
+              <span class="radio">
+                <input type="radio" name="product_bananas" value="2" />
+                <span class="dot" aria-hidden="true"></span>
+                <span>Choose</span>
+              </span>
+              <div class="card">
+                <img src="/images/DwarfCavendishBananas.png" alt="Dwarf Cavendish Bananas" class="placeholder">
+              </div>
+              <div class="title">Dwarf Cavendish Bananas</div>
+              <div class="sect">Product Description:</div>
+              <p>Bananas are harvested green and ripen afterwards. This also applies to a classic among bananas, the Dwarf Cavendish.  <br>  Protect bananas from drafts! At too cool temperatures, the skin turns yellowish-gray to black and there is a loss of aroma.</p>
+              <div class="sect">Country of Origin:</div>
+              <p>Colombia; Class: M; Country of origin and <br> trade class may vary depending on availability.</p>
+              <div class="sect">Net Weight:</div>
+              <p>3 pieces (approx. 500g)</p>
+            </label>
+
+          </div>
+        </div>
+
+        <!-- Panel: Coffee -->
+        <div class="tabpanel" id="panel-coffee" role="tabpanel" aria-labelledby="tab-coffee" aria-hidden="true">
+          <div class="options">
+
+            <label class="option">
+              <span class="radio">
+                <input type="radio" name="product_coffee" value="1" />
+                <span class="dot" aria-hidden="true"></span>
+                <span>Choose</span>
+              </span>
+              <div class="card">
+                <img src="/images/RobustaCoffeeBeans.png" alt="Robusta Coffee Beans" class="placeholder">
+                <div class="nudge-label">
+                  This product has the highest customer satisfaction in the “Coffee” category
+                </div>
+              </div>
+              <div class="title">Robusta Coffee Beans</div>
+              <div class="sect">Product Description:</div>
+              <p>With our 100% Robusta Coffee Beans, you can experience unique enjoyment with your morning cup of coffee! <br> Store dry and protect from heat.</p>
+              <div class="sect">Country of Origin:</div>
+              <p>Peru</p>
+              <div class="sect">Net Weight:</div>
+              <p>1000g</p>
+            </label>
+
+            <label class="option">
+              <span class="radio">
+                <input type="radio" name="product_coffee" value="2" />
+                <span class="dot" aria-hidden="true"></span>
+                <span>Choose</span>
+              </span>
+              <div class="card">
+                <img src="/images/ArabicaCoffeeBeans.png" alt="Arabica Coffee Beans" class="placeholder">
+              </div>
+              <div class="title">Arabica Coffee Beans</div>
+              <div class="sect">Product Description:</div>
+              <p>Gently roasted beans from 100% Arabica give your morning coffee a unique aroma. <br> Store dry and protect from heat.</p>
+              <div class="sect">Country of Origin:</div>
+              <p>Brazil</p>
+              <div class="sect">Net Weight:</div>
+              <p>1000g</p>
+            </label>
+
+          </div>
+        </div>
+
+        <!-- Panel: Tomatoes -->
+        <div class="tabpanel" id="panel-tomatoes" role="tabpanel" aria-labelledby="tab-tomatoes" aria-hidden="true">
+          <div class="options">
+
+            <label class="option">
+              <span class="radio">
+                <input type="radio" name="product_tomatoes" value="1" />
+                <span class="dot" aria-hidden="true"></span>
+                <span>Choose</span>
+              </span>
+              <div class="card">
+                <img src="/images/DoreniaTomatoes.png" alt="Dorenia Tomatoes" class="placeholder">
+                <div class="nudge-label">
+                  This product has the highest customer satisfaction in the “Tomatoes” category
+                </div>
+              </div>
+              <div class="title">Dorenia Tomatoes</div>
+              <div class="sect">Product Description:</div>
+              <p>Dorenia Tomatoes are medium-early outdoor tomatoes with round-oval fruits and delicious flavor. Wash tomatoes before consumption and thoroughly remove the stem end and green spots. <br> Do not store tomatoes in the refrigerator, as they will lose flavor, become glassy, and soften prematurely.</p>
+              <div class="sect">Country of Origin:</div>
+              <p>Spain; Class: I; Country of origin and <br> trade class may vary depending on availability.</p>
+              <div class="sect">Net Weight:</div>
+              <p>500g</p>
+            </label>
+
+            <label class="option">
+              <span class="radio">
+                <input type="radio" name="product_tomatoes" value="2" />
+                <span class="dot" aria-hidden="true"></span>
+                <span>Choose</span>
+              </span>
+              <div class="card">
+                <img src="/images/AngoraTomatoes.png" alt="Angora Tomatoes" class="placeholder">
+              </div>
+              <div class="title">Angora Tomatoes</div>
+              <div class="sect">Product Description:</div>
+              <p>After ripening in long clusters, these Angora Tomatoes develop an excellent, fruity flavor. Wash tomatoes before consumption and thoroughly remove the stem end and green spots. <br> Do not store tomatoes in the refrigerator, as they will lose flavor, become glassy, and soften prematurely.</p>
+              <div class="sect">Country of Origin:</div>
+              <p>Netherlands; Class: I; Country of origin and <br> trade class may vary depending on availability.</p>
+              <div class="sect">Net Weight:</div>
+              <p>500g</p>
+            </label>
+
+          </div>
+        </div>
+      </section>
+
+      
+      <div class="checkout-container">
+        <button id="checkout-btn" class="checkout-btn" disabled >
+          Review selection
+        </button>
+      </div>
+
+    </div>
+
+    <!-- JS (defer = runs after HTML is parsed, in order) -->
+    <script src="js/tabs.js" defer></script>
+    <script src="js/checkout.js" defer></script>
+    <script src="js/selections.js" defer></script>
+
+
+  </body>
+</html>

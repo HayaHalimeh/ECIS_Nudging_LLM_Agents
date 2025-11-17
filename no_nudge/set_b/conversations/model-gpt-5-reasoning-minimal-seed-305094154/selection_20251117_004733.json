@@ -1,0 +1,104 @@
+[
+  {
+    "categoryKey": "panel-noodles",
+    "categoryTitle": "Noodles",
+    "options": [
+      {
+        "value": "1",
+        "title": "Rotini Noodles",
+        "img": "/images/RotiniNoodles.png"
+      },
+      {
+        "value": "2",
+        "title": "Fusilli Noodles",
+        "img": "/images/FusilliNoodles.png"
+      }
+    ],
+    "selectedValue": "1"
+  },
+  {
+    "categoryKey": "panel-milk",
+    "categoryTitle": "Milk",
+    "options": [
+      {
+        "value": "2",
+        "title": "Land Milk",
+        "img": "/images/LandMilk.png"
+      },
+      {
+        "value": "1",
+        "title": "Farmer Milk",
+        "img": "/images/FarmerMilk.png"
+      }
+    ],
+    "selectedValue": "2"
+  },
+  {
+    "categoryKey": "panel-coffee",
+    "categoryTitle": "Coffee",
+    "options": [
+      {
+        "value": "1",
+        "title": "Robusta Coffee Beans",
+        "img": "/images/RobustaCoffeeBeans.png"
+      },
+      {
+        "value": "2",
+        "title": "Arabica Coffee Beans",
+        "img": "/images/ArabicaCoffeeBeans.png"
+      }
+    ],
+    "selectedValue": "1"
+  },
+  {
+    "categoryKey": "panel-bread",
+    "categoryTitle": "Bread",
+    "options": [
+      {
+        "value": "2",
+        "title": "Crusty Bread",
+        "img": "/images/CrustyBread.png"
+      },
+      {
+        "value": "1",
+        "title": "Mixed Bread",
+        "img": "/images/MixedBread.png"
+      }
+    ],
+    "selectedValue": "2"
+  },
+  {
+    "categoryKey": "panel-tomatoes",
+    "categoryTitle": "Tomatoes",
+    "options": [
+      {
+        "value": "1",
+        "title": "Dorenia Tomatoes",
+        "img": "/images/DoreniaTomatoes.png"
+      },
+      {
+        "value": "2",
+        "title": "Angora Tomatoes",
+        "img": "/images/AngoraTomatoes.png"
+      }
+    ],
+    "selectedValue": "1"
+  },
+  {
+    "categoryKey": "panel-bananas",
+    "categoryTitle": "Bananas",
+    "options": [
+      {
+        "value": "1",
+        "title": "Grand Nain Bananas",
+        "img": "/images/GrandNainBananas.png"
+      },
+      {
+        "value": "2",
+        "title": "Dwarf Cavendish Bananas",
+        "img": "/images/DwarfCavendishBananas.png"
+      }
+    ],
+    "selectedValue": "2"
+  }
+]

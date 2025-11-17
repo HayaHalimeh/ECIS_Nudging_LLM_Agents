@@ -1,0 +1,301 @@
+condition,set,model,reasoning,seed,agent,category,product_order,option_1_title,option_1_value,option_2_title,option_2_value,target_product,selected_product,target_product_selected
+social_influence,set_b,gpt-5,high,10382762,gpt-5-reasoning-high-seed-10382762,Noodles,1,Rotini Noodles,1,Fusilli Noodles,2,2,2,1
+social_influence,set_b,gpt-5,high,10382762,gpt-5-reasoning-high-seed-10382762,Bananas,2,Grand Nain Bananas,1,Dwarf Cavendish Bananas,2,2,2,1
+social_influence,set_b,gpt-5,high,10382762,gpt-5-reasoning-high-seed-10382762,Milk,3,Land Milk,2,Farmer Milk,1,2,2,1
+social_influence,set_b,gpt-5,high,10382762,gpt-5-reasoning-high-seed-10382762,Bread,4,Crusty Bread,2,Mixed Bread,1,2,2,1
+social_influence,set_b,gpt-5,high,10382762,gpt-5-reasoning-high-seed-10382762,Tomatoes,5,Dorenia Tomatoes,1,Angora Tomatoes,2,2,2,1
+social_influence,set_b,gpt-5,high,10382762,gpt-5-reasoning-high-seed-10382762,Coffee,6,Arabica Coffee Beans,2,Robusta Coffee Beans,1,2,2,1
+social_influence,set_b,gpt-5,high,110373809,gpt-5-reasoning-high-seed-110373809,Milk,1,Land Milk,2,Farmer Milk,1,2,2,1
+social_influence,set_b,gpt-5,high,110373809,gpt-5-reasoning-high-seed-110373809,Noodles,2,Rotini Noodles,1,Fusilli Noodles,2,2,2,1
+social_influence,set_b,gpt-5,high,110373809,gpt-5-reasoning-high-seed-110373809,Bananas,3,Grand Nain Bananas,1,Dwarf Cavendish Bananas,2,2,2,1
+social_influence,set_b,gpt-5,high,110373809,gpt-5-reasoning-high-seed-110373809,Tomatoes,4,Dorenia Tomatoes,1,Angora Tomatoes,2,2,2,1
+social_influence,set_b,gpt-5,high,110373809,gpt-5-reasoning-high-seed-110373809,Coffee,5,Arabica Coffee Beans,2,Robusta Coffee Beans,1,2,2,1
+social_influence,set_b,gpt-5,high,110373809,gpt-5-reasoning-high-seed-110373809,Bread,6,Crusty Bread,2,Mixed Bread,1,2,2,1
+social_influence,set_b,gpt-5,high,120123667,gpt-5-reasoning-high-seed-120123667,Milk,1,Farmer Milk,1,Land Milk,2,2,2,1
+social_influence,set_b,gpt-5,high,120123667,gpt-5-reasoning-high-seed-120123667,Bananas,2,Grand Nain Bananas,1,Dwarf Cavendish Bananas,2,2,2,1
+social_influence,set_b,gpt-5,high,120123667,gpt-5-reasoning-high-seed-120123667,Noodles,3,Rotini Noodles,1,Fusilli Noodles,2,2,2,1
+social_influence,set_b,gpt-5,high,120123667,gpt-5-reasoning-high-seed-120123667,Coffee,4,Robusta Coffee Beans,1,Arabica Coffee Beans,2,2,2,1
+social_influence,set_b,gpt-5,high,120123667,gpt-5-reasoning-high-seed-120123667,Bread,5,Mixed Bread,1,Crusty Bread,2,2,2,1
+social_influence,set_b,gpt-5,high,120123667,gpt-5-reasoning-high-seed-120123667,Tomatoes,6,Dorenia Tomatoes,1,Angora Tomatoes,2,2,2,1
+social_influence,set_b,gpt-5,high,136843585,gpt-5-reasoning-high-seed-136843585,Noodles,1,Rotini Noodles,1,Fusilli Noodles,2,2,2,1
+social_influence,set_b,gpt-5,high,136843585,gpt-5-reasoning-high-seed-136843585,Milk,2,Land Milk,2,Farmer Milk,1,2,2,1
+social_influence,set_b,gpt-5,high,136843585,gpt-5-reasoning-high-seed-136843585,Bananas,3,Grand Nain Bananas,1,Dwarf Cavendish Bananas,2,2,2,1
+social_influence,set_b,gpt-5,high,136843585,gpt-5-reasoning-high-seed-136843585,Coffee,4,Robusta Coffee Beans,1,Arabica Coffee Beans,2,2,2,1
+social_influence,set_b,gpt-5,high,136843585,gpt-5-reasoning-high-seed-136843585,Tomatoes,5,Angora Tomatoes,2,Dorenia Tomatoes,1,2,2,1
+social_influence,set_b,gpt-5,high,136843585,gpt-5-reasoning-high-seed-136843585,Bread,6,Mixed Bread,1,Crusty Bread,2,2,2,1
+social_influence,set_b,gpt-5,high,159014494,gpt-5-reasoning-high-seed-159014494,Bread,1,Crusty Bread,2,Mixed Bread,1,2,2,1
+social_influence,set_b,gpt-5,high,159014494,gpt-5-reasoning-high-seed-159014494,Noodles,2,Rotini Noodles,1,Fusilli Noodles,2,2,2,1
+social_influence,set_b,gpt-5,high,159014494,gpt-5-reasoning-high-seed-159014494,Milk,3,Land Milk,2,Farmer Milk,1,2,2,1
+social_influence,set_b,gpt-5,high,159014494,gpt-5-reasoning-high-seed-159014494,Tomatoes,4,Angora Tomatoes,2,Dorenia Tomatoes,1,2,2,1
+social_influence,set_b,gpt-5,high,159014494,gpt-5-reasoning-high-seed-159014494,Coffee,5,Arabica Coffee Beans,2,Robusta Coffee Beans,1,2,2,1
+social_influence,set_b,gpt-5,high,159014494,gpt-5-reasoning-high-seed-159014494,Bananas,6,Grand Nain Bananas,1,Dwarf Cavendish Bananas,2,2,2,1
+social_influence,set_b,gpt-5,high,160045823,gpt-5-reasoning-high-seed-160045823,Milk,1,Farmer Milk,1,Land Milk,2,2,2,1
+social_influence,set_b,gpt-5,high,160045823,gpt-5-reasoning-high-seed-160045823,Bananas,2,Grand Nain Bananas,1,Dwarf Cavendish Bananas,2,2,2,1
+social_influence,set_b,gpt-5,high,160045823,gpt-5-reasoning-high-seed-160045823,Coffee,3,Robusta Coffee Beans,1,Arabica Coffee Beans,2,2,2,1
+social_influence,set_b,gpt-5,high,160045823,gpt-5-reasoning-high-seed-160045823,Noodles,4,Rotini Noodles,1,Fusilli Noodles,2,2,2,1
+social_influence,set_b,gpt-5,high,160045823,gpt-5-reasoning-high-seed-160045823,Bread,5,Mixed Bread,1,Crusty Bread,2,2,2,1
+social_influence,set_b,gpt-5,high,160045823,gpt-5-reasoning-high-seed-160045823,Tomatoes,6,Angora Tomatoes,2,Dorenia Tomatoes,1,2,2,1
+social_influence,set_b,gpt-5,high,165950384,gpt-5-reasoning-high-seed-165950384,Bread,1,Mixed Bread,1,Crusty Bread,2,2,2,1
+social_influence,set_b,gpt-5,high,165950384,gpt-5-reasoning-high-seed-165950384,Milk,2,Land Milk,2,Farmer Milk,1,2,2,1
+social_influence,set_b,gpt-5,high,165950384,gpt-5-reasoning-high-seed-165950384,Bananas,3,Grand Nain Bananas,1,Dwarf Cavendish Bananas,2,2,2,1
+social_influence,set_b,gpt-5,high,165950384,gpt-5-reasoning-high-seed-165950384,Noodles,4,Rotini Noodles,1,Fusilli Noodles,2,2,2,1
+social_influence,set_b,gpt-5,high,165950384,gpt-5-reasoning-high-seed-165950384,Coffee,5,Robusta Coffee Beans,1,Arabica Coffee Beans,2,2,2,1
+social_influence,set_b,gpt-5,high,165950384,gpt-5-reasoning-high-seed-165950384,Tomatoes,6,Dorenia Tomatoes,1,Angora Tomatoes,2,2,2,1
+social_influence,set_b,gpt-5,high,174484942,gpt-5-reasoning-high-seed-174484942,Bananas,1,Grand Nain Bananas,1,Dwarf Cavendish Bananas,2,2,2,1
+social_influence,set_b,gpt-5,high,174484942,gpt-5-reasoning-high-seed-174484942,Coffee,2,Arabica Coffee Beans,2,Robusta Coffee Beans,1,2,2,1
+social_influence,set_b,gpt-5,high,174484942,gpt-5-reasoning-high-seed-174484942,Noodles,3,Rotini Noodles,1,Fusilli Noodles,2,2,2,1
+social_influence,set_b,gpt-5,high,174484942,gpt-5-reasoning-high-seed-174484942,Tomatoes,4,Dorenia Tomatoes,1,Angora Tomatoes,2,2,2,1
+social_influence,set_b,gpt-5,high,174484942,gpt-5-reasoning-high-seed-174484942,Milk,5,Farmer Milk,1,Land Milk,2,2,2,1
+social_influence,set_b,gpt-5,high,174484942,gpt-5-reasoning-high-seed-174484942,Bread,6,Crusty Bread,2,Mixed Bread,1,2,2,1
+social_influence,set_b,gpt-5,high,225567964,gpt-5-reasoning-high-seed-225567964,Noodles,1,Rotini Noodles,1,Fusilli Noodles,2,2,2,1
+social_influence,set_b,gpt-5,high,225567964,gpt-5-reasoning-high-seed-225567964,Bananas,2,Dwarf Cavendish Bananas,2,Grand Nain Bananas,1,2,2,1
+social_influence,set_b,gpt-5,high,225567964,gpt-5-reasoning-high-seed-225567964,Bread,3,Crusty Bread,2,Mixed Bread,1,2,2,1
+social_influence,set_b,gpt-5,high,225567964,gpt-5-reasoning-high-seed-225567964,Coffee,4,Arabica Coffee Beans,2,Robusta Coffee Beans,1,2,2,1
+social_influence,set_b,gpt-5,high,225567964,gpt-5-reasoning-high-seed-225567964,Milk,5,Land Milk,2,Farmer Milk,1,2,2,1
+social_influence,set_b,gpt-5,high,225567964,gpt-5-reasoning-high-seed-225567964,Tomatoes,6,Dorenia Tomatoes,1,Angora Tomatoes,2,2,2,1
+social_influence,set_b,gpt-5,high,254194772,gpt-5-reasoning-high-seed-254194772,Bread,1,Mixed Bread,1,Crusty Bread,2,2,2,1
+social_influence,set_b,gpt-5,high,254194772,gpt-5-reasoning-high-seed-254194772,Noodles,2,Fusilli Noodles,2,Rotini Noodles,1,2,2,1
+social_influence,set_b,gpt-5,high,254194772,gpt-5-reasoning-high-seed-254194772,Bananas,3,Dwarf Cavendish Bananas,2,Grand Nain Bananas,1,2,2,1
+social_influence,set_b,gpt-5,high,254194772,gpt-5-reasoning-high-seed-254194772,Tomatoes,4,Dorenia Tomatoes,1,Angora Tomatoes,2,2,2,1
+social_influence,set_b,gpt-5,high,254194772,gpt-5-reasoning-high-seed-254194772,Coffee,5,Arabica Coffee Beans,2,Robusta Coffee Beans,1,2,2,1
+social_influence,set_b,gpt-5,high,254194772,gpt-5-reasoning-high-seed-254194772,Milk,6,Land Milk,2,Farmer Milk,1,2,2,1
+social_influence,set_b,gpt-5,high,267930514,gpt-5-reasoning-high-seed-267930514,Bananas,1,Grand Nain Bananas,1,Dwarf Cavendish Bananas,2,2,2,1
+social_influence,set_b,gpt-5,high,267930514,gpt-5-reasoning-high-seed-267930514,Coffee,2,Robusta Coffee Beans,1,Arabica Coffee Beans,2,2,2,1
+social_influence,set_b,gpt-5,high,267930514,gpt-5-reasoning-high-seed-267930514,Bread,3,Crusty Bread,2,Mixed Bread,1,2,2,1
+social_influence,set_b,gpt-5,high,267930514,gpt-5-reasoning-high-seed-267930514,Tomatoes,4,Dorenia Tomatoes,1,Angora Tomatoes,2,2,2,1
+social_influence,set_b,gpt-5,high,267930514,gpt-5-reasoning-high-seed-267930514,Milk,5,Land Milk,2,Farmer Milk,1,2,2,1
+social_influence,set_b,gpt-5,high,267930514,gpt-5-reasoning-high-seed-267930514,Noodles,6,Rotini Noodles,1,Fusilli Noodles,2,2,2,1
+social_influence,set_b,gpt-5,high,330989882,gpt-5-reasoning-high-seed-330989882,Coffee,1,Robusta Coffee Beans,1,Arabica Coffee Beans,2,2,2,1
+social_influence,set_b,gpt-5,high,330989882,gpt-5-reasoning-high-seed-330989882,Bread,2,Crusty Bread,2,Mixed Bread,1,2,2,1
+social_influence,set_b,gpt-5,high,330989882,gpt-5-reasoning-high-seed-330989882,Noodles,3,Rotini Noodles,1,Fusilli Noodles,2,2,2,1
+social_influence,set_b,gpt-5,high,330989882,gpt-5-reasoning-high-seed-330989882,Bananas,4,Dwarf Cavendish Bananas,2,Grand Nain Bananas,1,2,2,1
+social_influence,set_b,gpt-5,high,330989882,gpt-5-reasoning-high-seed-330989882,Tomatoes,5,Dorenia Tomatoes,1,Angora Tomatoes,2,2,2,1
+social_influence,set_b,gpt-5,high,330989882,gpt-5-reasoning-high-seed-330989882,Milk,6,Farmer Milk,1,Land Milk,2,2,2,1
+social_influence,set_b,gpt-5,high,379759539,gpt-5-reasoning-high-seed-379759539,Noodles,1,Rotini Noodles,1,Fusilli Noodles,2,2,2,1
+social_influence,set_b,gpt-5,high,379759539,gpt-5-reasoning-high-seed-379759539,Bread,2,Mixed Bread,1,Crusty Bread,2,2,2,1
+social_influence,set_b,gpt-5,high,379759539,gpt-5-reasoning-high-seed-379759539,Tomatoes,3,Angora Tomatoes,2,Dorenia Tomatoes,1,2,2,1
+social_influence,set_b,gpt-5,high,379759539,gpt-5-reasoning-high-seed-379759539,Milk,4,Farmer Milk,1,Land Milk,2,2,2,1
+social_influence,set_b,gpt-5,high,379759539,gpt-5-reasoning-high-seed-379759539,Bananas,5,Dwarf Cavendish Bananas,2,Grand Nain Bananas,1,2,2,1
+social_influence,set_b,gpt-5,high,379759539,gpt-5-reasoning-high-seed-379759539,Coffee,6,Arabica Coffee Beans,2,Robusta Coffee Beans,1,2,2,1
+social_influence,set_b,gpt-5,high,384194738,gpt-5-reasoning-high-seed-384194738,Tomatoes,1,Dorenia Tomatoes,1,Angora Tomatoes,2,2,2,1
+social_influence,set_b,gpt-5,high,384194738,gpt-5-reasoning-high-seed-384194738,Bread,2,Crusty Bread,2,Mixed Bread,1,2,2,1
+social_influence,set_b,gpt-5,high,384194738,gpt-5-reasoning-high-seed-384194738,Noodles,3,Fusilli Noodles,2,Rotini Noodles,1,2,2,1
+social_influence,set_b,gpt-5,high,384194738,gpt-5-reasoning-high-seed-384194738,Bananas,4,Grand Nain Bananas,1,Dwarf Cavendish Bananas,2,2,2,1
+social_influence,set_b,gpt-5,high,384194738,gpt-5-reasoning-high-seed-384194738,Coffee,5,Arabica Coffee Beans,2,Robusta Coffee Beans,1,2,2,1
+social_influence,set_b,gpt-5,high,384194738,gpt-5-reasoning-high-seed-384194738,Milk,6,Land Milk,2,Farmer Milk,1,2,2,1
+social_influence,set_b,gpt-5,high,38684920,gpt-5-reasoning-high-seed-38684920,Noodles,1,Fusilli Noodles,2,Rotini Noodles,1,2,2,1
+social_influence,set_b,gpt-5,high,38684920,gpt-5-reasoning-high-seed-38684920,Bread,2,Crusty Bread,2,Mixed Bread,1,2,2,1
+social_influence,set_b,gpt-5,high,38684920,gpt-5-reasoning-high-seed-38684920,Bananas,3,Dwarf Cavendish Bananas,2,Grand Nain Bananas,1,2,2,1
+social_influence,set_b,gpt-5,high,38684920,gpt-5-reasoning-high-seed-38684920,Tomatoes,4,Angora Tomatoes,2,Dorenia Tomatoes,1,2,2,1
+social_influence,set_b,gpt-5,high,38684920,gpt-5-reasoning-high-seed-38684920,Coffee,5,Arabica Coffee Beans,2,Robusta Coffee Beans,1,2,2,1
+social_influence,set_b,gpt-5,high,38684920,gpt-5-reasoning-high-seed-38684920,Milk,6,Farmer Milk,1,Land Milk,2,2,2,1
+social_influence,set_b,gpt-5,high,391541579,gpt-5-reasoning-high-seed-391541579,Coffee,1,Arabica Coffee Beans,2,Robusta Coffee Beans,1,2,2,1
+social_influence,set_b,gpt-5,high,391541579,gpt-5-reasoning-high-seed-391541579,Milk,2,Farmer Milk,1,Land Milk,2,2,2,1
+social_influence,set_b,gpt-5,high,391541579,gpt-5-reasoning-high-seed-391541579,Noodles,3,Rotini Noodles,1,Fusilli Noodles,2,2,2,1
+social_influence,set_b,gpt-5,high,391541579,gpt-5-reasoning-high-seed-391541579,Bread,4,Crusty Bread,2,Mixed Bread,1,2,2,1
+social_influence,set_b,gpt-5,high,391541579,gpt-5-reasoning-high-seed-391541579,Tomatoes,5,Dorenia Tomatoes,1,Angora Tomatoes,2,2,2,1
+social_influence,set_b,gpt-5,high,391541579,gpt-5-reasoning-high-seed-391541579,Bananas,6,Grand Nain Bananas,1,Dwarf Cavendish Bananas,2,2,2,1
+social_influence,set_b,gpt-5,high,396442647,gpt-5-reasoning-high-seed-396442647,Noodles,1,Fusilli Noodles,2,Rotini Noodles,1,2,2,1
+social_influence,set_b,gpt-5,high,396442647,gpt-5-reasoning-high-seed-396442647,Coffee,2,Arabica Coffee Beans,2,Robusta Coffee Beans,1,2,2,1
+social_influence,set_b,gpt-5,high,396442647,gpt-5-reasoning-high-seed-396442647,Milk,3,Land Milk,2,Farmer Milk,1,2,2,1
+social_influence,set_b,gpt-5,high,396442647,gpt-5-reasoning-high-seed-396442647,Tomatoes,4,Angora Tomatoes,2,Dorenia Tomatoes,1,2,2,1
+social_influence,set_b,gpt-5,high,396442647,gpt-5-reasoning-high-seed-396442647,Bread,5,Mixed Bread,1,Crusty Bread,2,2,2,1
+social_influence,set_b,gpt-5,high,396442647,gpt-5-reasoning-high-seed-396442647,Bananas,6,Grand Nain Bananas,1,Dwarf Cavendish Bananas,2,2,2,1
+social_influence,set_b,gpt-5,high,42836794,gpt-5-reasoning-high-seed-42836794,Bananas,1,Dwarf Cavendish Bananas,2,Grand Nain Bananas,1,2,2,1
+social_influence,set_b,gpt-5,high,42836794,gpt-5-reasoning-high-seed-42836794,Bread,2,Crusty Bread,2,Mixed Bread,1,2,2,1
+social_influence,set_b,gpt-5,high,42836794,gpt-5-reasoning-high-seed-42836794,Noodles,3,Rotini Noodles,1,Fusilli Noodles,2,2,2,1
+social_influence,set_b,gpt-5,high,42836794,gpt-5-reasoning-high-seed-42836794,Tomatoes,4,Angora Tomatoes,2,Dorenia Tomatoes,1,2,2,1
+social_influence,set_b,gpt-5,high,42836794,gpt-5-reasoning-high-seed-42836794,Milk,5,Land Milk,2,Farmer Milk,1,2,2,1
+social_influence,set_b,gpt-5,high,42836794,gpt-5-reasoning-high-seed-42836794,Coffee,6,Arabica Coffee Beans,2,Robusta Coffee Beans,1,2,2,1
+social_influence,set_b,gpt-5,high,436344400,gpt-5-reasoning-high-seed-436344400,Noodles,1,Fusilli Noodles,2,Rotini Noodles,1,2,2,1
+social_influence,set_b,gpt-5,high,436344400,gpt-5-reasoning-high-seed-436344400,Coffee,2,Robusta Coffee Beans,1,Arabica Coffee Beans,2,2,2,1
+social_influence,set_b,gpt-5,high,436344400,gpt-5-reasoning-high-seed-436344400,Tomatoes,3,Dorenia Tomatoes,1,Angora Tomatoes,2,2,2,1
+social_influence,set_b,gpt-5,high,436344400,gpt-5-reasoning-high-seed-436344400,Bananas,4,Grand Nain Bananas,1,Dwarf Cavendish Bananas,2,2,2,1
+social_influence,set_b,gpt-5,high,436344400,gpt-5-reasoning-high-seed-436344400,Milk,5,Farmer Milk,1,Land Milk,2,2,2,1
+social_influence,set_b,gpt-5,high,436344400,gpt-5-reasoning-high-seed-436344400,Bread,6,Crusty Bread,2,Mixed Bread,1,2,2,1
+social_influence,set_b,gpt-5,high,44913400,gpt-5-reasoning-high-seed-44913400,Tomatoes,1,Dorenia Tomatoes,1,Angora Tomatoes,2,2,2,1
+social_influence,set_b,gpt-5,high,44913400,gpt-5-reasoning-high-seed-44913400,Coffee,2,Robusta Coffee Beans,1,Arabica Coffee Beans,2,2,2,1
+social_influence,set_b,gpt-5,high,44913400,gpt-5-reasoning-high-seed-44913400,Noodles,3,Rotini Noodles,1,Fusilli Noodles,2,2,2,1
+social_influence,set_b,gpt-5,high,44913400,gpt-5-reasoning-high-seed-44913400,Milk,4,Farmer Milk,1,Land Milk,2,2,2,1
+social_influence,set_b,gpt-5,high,44913400,gpt-5-reasoning-high-seed-44913400,Bread,5,Crusty Bread,2,Mixed Bread,1,2,2,1
+social_influence,set_b,gpt-5,high,44913400,gpt-5-reasoning-high-seed-44913400,Bananas,6,Grand Nain Bananas,1,Dwarf Cavendish Bananas,2,2,2,1
+social_influence,set_b,gpt-5,high,459225331,gpt-5-reasoning-high-seed-459225331,Noodles,1,Rotini Noodles,1,Fusilli Noodles,2,2,2,1
+social_influence,set_b,gpt-5,high,459225331,gpt-5-reasoning-high-seed-459225331,Coffee,2,Arabica Coffee Beans,2,Robusta Coffee Beans,1,2,2,1
+social_influence,set_b,gpt-5,high,459225331,gpt-5-reasoning-high-seed-459225331,Milk,3,Farmer Milk,1,Land Milk,2,2,2,1
+social_influence,set_b,gpt-5,high,459225331,gpt-5-reasoning-high-seed-459225331,Bananas,4,Grand Nain Bananas,1,Dwarf Cavendish Bananas,2,2,2,1
+social_influence,set_b,gpt-5,high,459225331,gpt-5-reasoning-high-seed-459225331,Tomatoes,5,Angora Tomatoes,2,Dorenia Tomatoes,1,2,2,1
+social_influence,set_b,gpt-5,high,459225331,gpt-5-reasoning-high-seed-459225331,Bread,6,Mixed Bread,1,Crusty Bread,2,2,2,1
+social_influence,set_b,gpt-5,high,461479974,gpt-5-reasoning-high-seed-461479974,Noodles,1,Fusilli Noodles,2,Rotini Noodles,1,2,2,1
+social_influence,set_b,gpt-5,high,461479974,gpt-5-reasoning-high-seed-461479974,Bananas,2,Dwarf Cavendish Bananas,2,Grand Nain Bananas,1,2,2,1
+social_influence,set_b,gpt-5,high,461479974,gpt-5-reasoning-high-seed-461479974,Tomatoes,3,Angora Tomatoes,2,Dorenia Tomatoes,1,2,2,1
+social_influence,set_b,gpt-5,high,461479974,gpt-5-reasoning-high-seed-461479974,Coffee,4,Arabica Coffee Beans,2,Robusta Coffee Beans,1,2,2,1
+social_influence,set_b,gpt-5,high,461479974,gpt-5-reasoning-high-seed-461479974,Bread,5,Crusty Bread,2,Mixed Bread,1,2,2,1
+social_influence,set_b,gpt-5,high,461479974,gpt-5-reasoning-high-seed-461479974,Milk,6,Land Milk,2,Farmer Milk,1,2,2,1
+social_influence,set_b,gpt-5,high,585823119,gpt-5-reasoning-high-seed-585823119,Noodles,1,Fusilli Noodles,2,Rotini Noodles,1,2,2,1
+social_influence,set_b,gpt-5,high,585823119,gpt-5-reasoning-high-seed-585823119,Bread,2,Mixed Bread,1,Crusty Bread,2,2,2,1
+social_influence,set_b,gpt-5,high,585823119,gpt-5-reasoning-high-seed-585823119,Coffee,3,Arabica Coffee Beans,2,Robusta Coffee Beans,1,2,2,1
+social_influence,set_b,gpt-5,high,585823119,gpt-5-reasoning-high-seed-585823119,Milk,4,Land Milk,2,Farmer Milk,1,2,2,1
+social_influence,set_b,gpt-5,high,585823119,gpt-5-reasoning-high-seed-585823119,Tomatoes,5,Dorenia Tomatoes,1,Angora Tomatoes,2,2,2,1
+social_influence,set_b,gpt-5,high,585823119,gpt-5-reasoning-high-seed-585823119,Bananas,6,Grand Nain Bananas,1,Dwarf Cavendish Bananas,2,2,2,1
+social_influence,set_b,gpt-5,high,592362343,gpt-5-reasoning-high-seed-592362343,Tomatoes,1,Dorenia Tomatoes,1,Angora Tomatoes,2,2,2,1
+social_influence,set_b,gpt-5,high,592362343,gpt-5-reasoning-high-seed-592362343,Coffee,2,Robusta Coffee Beans,1,Arabica Coffee Beans,2,2,2,1
+social_influence,set_b,gpt-5,high,592362343,gpt-5-reasoning-high-seed-592362343,Noodles,3,Fusilli Noodles,2,Rotini Noodles,1,2,2,1
+social_influence,set_b,gpt-5,high,592362343,gpt-5-reasoning-high-seed-592362343,Bananas,4,Grand Nain Bananas,1,Dwarf Cavendish Bananas,2,2,2,1
+social_influence,set_b,gpt-5,high,592362343,gpt-5-reasoning-high-seed-592362343,Milk,5,Land Milk,2,Farmer Milk,1,2,2,1
+social_influence,set_b,gpt-5,high,592362343,gpt-5-reasoning-high-seed-592362343,Bread,6,Crusty Bread,2,Mixed Bread,1,2,2,1
+social_influence,set_b,gpt-5,high,593269305,gpt-5-reasoning-high-seed-593269305,Tomatoes,1,Angora Tomatoes,2,Dorenia Tomatoes,1,2,2,1
+social_influence,set_b,gpt-5,high,593269305,gpt-5-reasoning-high-seed-593269305,Bananas,2,Dwarf Cavendish Bananas,2,Grand Nain Bananas,1,2,2,1
+social_influence,set_b,gpt-5,high,593269305,gpt-5-reasoning-high-seed-593269305,Coffee,3,Robusta Coffee Beans,1,Arabica Coffee Beans,2,2,2,1
+social_influence,set_b,gpt-5,high,593269305,gpt-5-reasoning-high-seed-593269305,Milk,4,Land Milk,2,Farmer Milk,1,2,2,1
+social_influence,set_b,gpt-5,high,593269305,gpt-5-reasoning-high-seed-593269305,Bread,5,Crusty Bread,2,Mixed Bread,1,2,2,1
+social_influence,set_b,gpt-5,high,593269305,gpt-5-reasoning-high-seed-593269305,Noodles,6,Rotini Noodles,1,Fusilli Noodles,2,2,2,1
+social_influence,set_b,gpt-5,high,601170350,gpt-5-reasoning-high-seed-601170350,Bread,1,Crusty Bread,2,Mixed Bread,1,2,2,1
+social_influence,set_b,gpt-5,high,601170350,gpt-5-reasoning-high-seed-601170350,Coffee,2,Arabica Coffee Beans,2,Robusta Coffee Beans,1,2,2,1
+social_influence,set_b,gpt-5,high,601170350,gpt-5-reasoning-high-seed-601170350,Bananas,3,Grand Nain Bananas,1,Dwarf Cavendish Bananas,2,2,2,1
+social_influence,set_b,gpt-5,high,601170350,gpt-5-reasoning-high-seed-601170350,Tomatoes,4,Dorenia Tomatoes,1,Angora Tomatoes,2,2,2,1
+social_influence,set_b,gpt-5,high,601170350,gpt-5-reasoning-high-seed-601170350,Milk,5,Farmer Milk,1,Land Milk,2,2,2,1
+social_influence,set_b,gpt-5,high,601170350,gpt-5-reasoning-high-seed-601170350,Noodles,6,Fusilli Noodles,2,Rotini Noodles,1,2,2,1
+social_influence,set_b,gpt-5,high,602269165,gpt-5-reasoning-high-seed-602269165,Noodles,1,Fusilli Noodles,2,Rotini Noodles,1,2,2,1
+social_influence,set_b,gpt-5,high,602269165,gpt-5-reasoning-high-seed-602269165,Bread,2,Mixed Bread,1,Crusty Bread,2,2,2,1
+social_influence,set_b,gpt-5,high,602269165,gpt-5-reasoning-high-seed-602269165,Bananas,3,Grand Nain Bananas,1,Dwarf Cavendish Bananas,2,2,2,1
+social_influence,set_b,gpt-5,high,602269165,gpt-5-reasoning-high-seed-602269165,Tomatoes,4,Dorenia Tomatoes,1,Angora Tomatoes,2,2,2,1
+social_influence,set_b,gpt-5,high,602269165,gpt-5-reasoning-high-seed-602269165,Coffee,5,Arabica Coffee Beans,2,Robusta Coffee Beans,1,2,2,1
+social_influence,set_b,gpt-5,high,602269165,gpt-5-reasoning-high-seed-602269165,Milk,6,Farmer Milk,1,Land Milk,2,2,2,1
+social_influence,set_b,gpt-5,high,625464885,gpt-5-reasoning-high-seed-625464885,Bananas,1,Dwarf Cavendish Bananas,2,Grand Nain Bananas,1,2,2,1
+social_influence,set_b,gpt-5,high,625464885,gpt-5-reasoning-high-seed-625464885,Tomatoes,2,Angora Tomatoes,2,Dorenia Tomatoes,1,2,2,1
+social_influence,set_b,gpt-5,high,625464885,gpt-5-reasoning-high-seed-625464885,Noodles,3,Rotini Noodles,1,Fusilli Noodles,2,2,2,1
+social_influence,set_b,gpt-5,high,625464885,gpt-5-reasoning-high-seed-625464885,Milk,4,Farmer Milk,1,Land Milk,2,2,2,1
+social_influence,set_b,gpt-5,high,625464885,gpt-5-reasoning-high-seed-625464885,Bread,5,Mixed Bread,1,Crusty Bread,2,2,2,1
+social_influence,set_b,gpt-5,high,625464885,gpt-5-reasoning-high-seed-625464885,Coffee,6,Arabica Coffee Beans,2,Robusta Coffee Beans,1,2,2,1
+social_influence,set_b,gpt-5,high,666430219,gpt-5-reasoning-high-seed-666430219,Noodles,1,Fusilli Noodles,2,Rotini Noodles,1,2,2,1
+social_influence,set_b,gpt-5,high,666430219,gpt-5-reasoning-high-seed-666430219,Bananas,2,Dwarf Cavendish Bananas,2,Grand Nain Bananas,1,2,2,1
+social_influence,set_b,gpt-5,high,666430219,gpt-5-reasoning-high-seed-666430219,Tomatoes,3,Dorenia Tomatoes,1,Angora Tomatoes,2,2,2,1
+social_influence,set_b,gpt-5,high,666430219,gpt-5-reasoning-high-seed-666430219,Bread,4,Mixed Bread,1,Crusty Bread,2,2,2,1
+social_influence,set_b,gpt-5,high,666430219,gpt-5-reasoning-high-seed-666430219,Milk,5,Farmer Milk,1,Land Milk,2,2,2,1
+social_influence,set_b,gpt-5,high,666430219,gpt-5-reasoning-high-seed-666430219,Coffee,6,Arabica Coffee Beans,2,Robusta Coffee Beans,1,2,2,1
+social_influence,set_b,gpt-5,high,716114303,gpt-5-reasoning-high-seed-716114303,Noodles,1,Fusilli Noodles,2,Rotini Noodles,1,2,2,1
+social_influence,set_b,gpt-5,high,716114303,gpt-5-reasoning-high-seed-716114303,Bread,2,Mixed Bread,1,Crusty Bread,2,2,2,1
+social_influence,set_b,gpt-5,high,716114303,gpt-5-reasoning-high-seed-716114303,Bananas,3,Grand Nain Bananas,1,Dwarf Cavendish Bananas,2,2,2,1
+social_influence,set_b,gpt-5,high,716114303,gpt-5-reasoning-high-seed-716114303,Milk,4,Land Milk,2,Farmer Milk,1,2,2,1
+social_influence,set_b,gpt-5,high,716114303,gpt-5-reasoning-high-seed-716114303,Tomatoes,5,Angora Tomatoes,2,Dorenia Tomatoes,1,2,2,1
+social_influence,set_b,gpt-5,high,716114303,gpt-5-reasoning-high-seed-716114303,Coffee,6,Arabica Coffee Beans,2,Robusta Coffee Beans,1,2,2,1
+social_influence,set_b,gpt-5,high,732363534,gpt-5-reasoning-high-seed-732363534,Tomatoes,1,Angora Tomatoes,2,Dorenia Tomatoes,1,2,2,1
+social_influence,set_b,gpt-5,high,732363534,gpt-5-reasoning-high-seed-732363534,Milk,2,Land Milk,2,Farmer Milk,1,2,2,1
+social_influence,set_b,gpt-5,high,732363534,gpt-5-reasoning-high-seed-732363534,Noodles,3,Rotini Noodles,1,Fusilli Noodles,2,2,2,1
+social_influence,set_b,gpt-5,high,732363534,gpt-5-reasoning-high-seed-732363534,Bananas,4,Dwarf Cavendish Bananas,2,Grand Nain Bananas,1,2,2,1
+social_influence,set_b,gpt-5,high,732363534,gpt-5-reasoning-high-seed-732363534,Bread,5,Crusty Bread,2,Mixed Bread,1,2,2,1
+social_influence,set_b,gpt-5,high,732363534,gpt-5-reasoning-high-seed-732363534,Coffee,6,Robusta Coffee Beans,1,Arabica Coffee Beans,2,2,2,1
+social_influence,set_b,gpt-5,high,741976667,gpt-5-reasoning-high-seed-741976667,Bananas,1,Dwarf Cavendish Bananas,2,Grand Nain Bananas,1,2,2,1
+social_influence,set_b,gpt-5,high,741976667,gpt-5-reasoning-high-seed-741976667,Noodles,2,Rotini Noodles,1,Fusilli Noodles,2,2,2,1
+social_influence,set_b,gpt-5,high,741976667,gpt-5-reasoning-high-seed-741976667,Milk,3,Farmer Milk,1,Land Milk,2,2,2,1
+social_influence,set_b,gpt-5,high,741976667,gpt-5-reasoning-high-seed-741976667,Coffee,4,Arabica Coffee Beans,2,Robusta Coffee Beans,1,2,2,1
+social_influence,set_b,gpt-5,high,741976667,gpt-5-reasoning-high-seed-741976667,Tomatoes,5,Dorenia Tomatoes,1,Angora Tomatoes,2,2,2,1
+social_influence,set_b,gpt-5,high,741976667,gpt-5-reasoning-high-seed-741976667,Bread,6,Mixed Bread,1,Crusty Bread,2,2,2,1
+social_influence,set_b,gpt-5,high,757704656,gpt-5-reasoning-high-seed-757704656,Noodles,1,Rotini Noodles,1,Fusilli Noodles,2,2,2,1
+social_influence,set_b,gpt-5,high,757704656,gpt-5-reasoning-high-seed-757704656,Coffee,2,Robusta Coffee Beans,1,Arabica Coffee Beans,2,2,2,1
+social_influence,set_b,gpt-5,high,757704656,gpt-5-reasoning-high-seed-757704656,Tomatoes,3,Dorenia Tomatoes,1,Angora Tomatoes,2,2,2,1
+social_influence,set_b,gpt-5,high,757704656,gpt-5-reasoning-high-seed-757704656,Milk,4,Farmer Milk,1,Land Milk,2,2,2,1
+social_influence,set_b,gpt-5,high,757704656,gpt-5-reasoning-high-seed-757704656,Bananas,5,Dwarf Cavendish Bananas,2,Grand Nain Bananas,1,2,2,1
+social_influence,set_b,gpt-5,high,757704656,gpt-5-reasoning-high-seed-757704656,Bread,6,Mixed Bread,1,Crusty Bread,2,2,2,1
+social_influence,set_b,gpt-5,high,804745463,gpt-5-reasoning-high-seed-804745463,Tomatoes,1,Angora Tomatoes,2,Dorenia Tomatoes,1,2,2,1
+social_influence,set_b,gpt-5,high,804745463,gpt-5-reasoning-high-seed-804745463,Milk,2,Land Milk,2,Farmer Milk,1,2,2,1
+social_influence,set_b,gpt-5,high,804745463,gpt-5-reasoning-high-seed-804745463,Coffee,3,Arabica Coffee Beans,2,Robusta Coffee Beans,1,2,2,1
+social_influence,set_b,gpt-5,high,804745463,gpt-5-reasoning-high-seed-804745463,Bread,4,Crusty Bread,2,Mixed Bread,1,2,2,1
+social_influence,set_b,gpt-5,high,804745463,gpt-5-reasoning-high-seed-804745463,Bananas,5,Dwarf Cavendish Bananas,2,Grand Nain Bananas,1,2,2,1
+social_influence,set_b,gpt-5,high,804745463,gpt-5-reasoning-high-seed-804745463,Noodles,6,Rotini Noodles,1,Fusilli Noodles,2,2,2,1
+social_influence,set_b,gpt-5,high,80792473,gpt-5-reasoning-high-seed-80792473,Bananas,1,Dwarf Cavendish Bananas,2,Grand Nain Bananas,1,2,2,1
+social_influence,set_b,gpt-5,high,80792473,gpt-5-reasoning-high-seed-80792473,Noodles,2,Fusilli Noodles,2,Rotini Noodles,1,2,2,1
+social_influence,set_b,gpt-5,high,80792473,gpt-5-reasoning-high-seed-80792473,Milk,3,Land Milk,2,Farmer Milk,1,2,2,1
+social_influence,set_b,gpt-5,high,80792473,gpt-5-reasoning-high-seed-80792473,Tomatoes,4,Dorenia Tomatoes,1,Angora Tomatoes,2,2,2,1
+social_influence,set_b,gpt-5,high,80792473,gpt-5-reasoning-high-seed-80792473,Bread,5,Mixed Bread,1,Crusty Bread,2,2,2,1
+social_influence,set_b,gpt-5,high,80792473,gpt-5-reasoning-high-seed-80792473,Coffee,6,Robusta Coffee Beans,1,Arabica Coffee Beans,2,2,2,1
+social_influence,set_b,gpt-5,high,837643440,gpt-5-reasoning-high-seed-837643440,Noodles,1,Rotini Noodles,1,Fusilli Noodles,2,2,2,1
+social_influence,set_b,gpt-5,high,837643440,gpt-5-reasoning-high-seed-837643440,Bread,2,Crusty Bread,2,Mixed Bread,1,2,2,1
+social_influence,set_b,gpt-5,high,837643440,gpt-5-reasoning-high-seed-837643440,Tomatoes,3,Dorenia Tomatoes,1,Angora Tomatoes,2,2,2,1
+social_influence,set_b,gpt-5,high,837643440,gpt-5-reasoning-high-seed-837643440,Milk,4,Farmer Milk,1,Land Milk,2,2,2,1
+social_influence,set_b,gpt-5,high,837643440,gpt-5-reasoning-high-seed-837643440,Bananas,5,Dwarf Cavendish Bananas,2,Grand Nain Bananas,1,2,2,1
+social_influence,set_b,gpt-5,high,837643440,gpt-5-reasoning-high-seed-837643440,Coffee,6,Robusta Coffee Beans,1,Arabica Coffee Beans,2,2,2,1
+social_influence,set_b,gpt-5,high,854829816,gpt-5-reasoning-high-seed-854829816,Tomatoes,1,Dorenia Tomatoes,1,Angora Tomatoes,2,2,2,1
+social_influence,set_b,gpt-5,high,854829816,gpt-5-reasoning-high-seed-854829816,Milk,2,Land Milk,2,Farmer Milk,1,2,2,1
+social_influence,set_b,gpt-5,high,854829816,gpt-5-reasoning-high-seed-854829816,Bread,3,Mixed Bread,1,Crusty Bread,2,2,2,1
+social_influence,set_b,gpt-5,high,854829816,gpt-5-reasoning-high-seed-854829816,Coffee,4,Arabica Coffee Beans,2,Robusta Coffee Beans,1,2,2,1
+social_influence,set_b,gpt-5,high,854829816,gpt-5-reasoning-high-seed-854829816,Bananas,5,Grand Nain Bananas,1,Dwarf Cavendish Bananas,2,2,2,1
+social_influence,set_b,gpt-5,high,854829816,gpt-5-reasoning-high-seed-854829816,Noodles,6,Fusilli Noodles,2,Rotini Noodles,1,2,2,1
+social_influence,set_b,gpt-5,high,858872155,gpt-5-reasoning-high-seed-858872155,Coffee,1,Robusta Coffee Beans,1,Arabica Coffee Beans,2,2,2,1
+social_influence,set_b,gpt-5,high,858872155,gpt-5-reasoning-high-seed-858872155,Bananas,2,Grand Nain Bananas,1,Dwarf Cavendish Bananas,2,2,2,1
+social_influence,set_b,gpt-5,high,858872155,gpt-5-reasoning-high-seed-858872155,Noodles,3,Rotini Noodles,1,Fusilli Noodles,2,2,2,1
+social_influence,set_b,gpt-5,high,858872155,gpt-5-reasoning-high-seed-858872155,Bread,4,Mixed Bread,1,Crusty Bread,2,2,2,1
+social_influence,set_b,gpt-5,high,858872155,gpt-5-reasoning-high-seed-858872155,Milk,5,Farmer Milk,1,Land Milk,2,2,2,1
+social_influence,set_b,gpt-5,high,858872155,gpt-5-reasoning-high-seed-858872155,Tomatoes,6,Angora Tomatoes,2,Dorenia Tomatoes,1,2,2,1
+social_influence,set_b,gpt-5,high,870559511,gpt-5-reasoning-high-seed-870559511,Bananas,1,Grand Nain Bananas,1,Dwarf Cavendish Bananas,2,2,2,1
+social_influence,set_b,gpt-5,high,870559511,gpt-5-reasoning-high-seed-870559511,Noodles,2,Rotini Noodles,1,Fusilli Noodles,2,2,2,1
+social_influence,set_b,gpt-5,high,870559511,gpt-5-reasoning-high-seed-870559511,Bread,3,Mixed Bread,1,Crusty Bread,2,2,2,1
+social_influence,set_b,gpt-5,high,870559511,gpt-5-reasoning-high-seed-870559511,Coffee,4,Arabica Coffee Beans,2,Robusta Coffee Beans,1,2,2,1
+social_influence,set_b,gpt-5,high,870559511,gpt-5-reasoning-high-seed-870559511,Milk,5,Land Milk,2,Farmer Milk,1,2,2,1
+social_influence,set_b,gpt-5,high,870559511,gpt-5-reasoning-high-seed-870559511,Tomatoes,6,Angora Tomatoes,2,Dorenia Tomatoes,1,2,2,1
+social_influence,set_b,gpt-5,high,896139579,gpt-5-reasoning-high-seed-896139579,Tomatoes,1,Dorenia Tomatoes,1,Angora Tomatoes,2,2,2,1
+social_influence,set_b,gpt-5,high,896139579,gpt-5-reasoning-high-seed-896139579,Coffee,2,Robusta Coffee Beans,1,Arabica Coffee Beans,2,2,2,1
+social_influence,set_b,gpt-5,high,896139579,gpt-5-reasoning-high-seed-896139579,Bread,3,Mixed Bread,1,Crusty Bread,2,2,2,1
+social_influence,set_b,gpt-5,high,896139579,gpt-5-reasoning-high-seed-896139579,Milk,4,Farmer Milk,1,Land Milk,2,2,2,1
+social_influence,set_b,gpt-5,high,896139579,gpt-5-reasoning-high-seed-896139579,Bananas,5,Grand Nain Bananas,1,Dwarf Cavendish Bananas,2,2,2,1
+social_influence,set_b,gpt-5,high,896139579,gpt-5-reasoning-high-seed-896139579,Noodles,6,Rotini Noodles,1,Fusilli Noodles,2,2,2,1
+social_influence,set_b,gpt-5,high,924172365,gpt-5-reasoning-high-seed-924172365,Milk,1,Land Milk,2,Farmer Milk,1,2,2,1
+social_influence,set_b,gpt-5,high,924172365,gpt-5-reasoning-high-seed-924172365,Noodles,2,Fusilli Noodles,2,Rotini Noodles,1,2,2,1
+social_influence,set_b,gpt-5,high,924172365,gpt-5-reasoning-high-seed-924172365,Coffee,3,Robusta Coffee Beans,1,Arabica Coffee Beans,2,2,2,1
+social_influence,set_b,gpt-5,high,924172365,gpt-5-reasoning-high-seed-924172365,Bananas,4,Dwarf Cavendish Bananas,2,Grand Nain Bananas,1,2,2,1
+social_influence,set_b,gpt-5,high,924172365,gpt-5-reasoning-high-seed-924172365,Bread,5,Crusty Bread,2,Mixed Bread,1,2,2,1
+social_influence,set_b,gpt-5,high,924172365,gpt-5-reasoning-high-seed-924172365,Tomatoes,6,Dorenia Tomatoes,1,Angora Tomatoes,2,2,2,1
+social_influence,set_b,gpt-5,high,928363302,gpt-5-reasoning-high-seed-928363302,Tomatoes,1,Angora Tomatoes,2,Dorenia Tomatoes,1,2,2,1
+social_influence,set_b,gpt-5,high,928363302,gpt-5-reasoning-high-seed-928363302,Coffee,2,Arabica Coffee Beans,2,Robusta Coffee Beans,1,2,2,1
+social_influence,set_b,gpt-5,high,928363302,gpt-5-reasoning-high-seed-928363302,Bananas,3,Grand Nain Bananas,1,Dwarf Cavendish Bananas,2,2,2,1
+social_influence,set_b,gpt-5,high,928363302,gpt-5-reasoning-high-seed-928363302,Bread,4,Crusty Bread,2,Mixed Bread,1,2,2,1
+social_influence,set_b,gpt-5,high,928363302,gpt-5-reasoning-high-seed-928363302,Milk,5,Land Milk,2,Farmer Milk,1,2,2,1
+social_influence,set_b,gpt-5,high,928363302,gpt-5-reasoning-high-seed-928363302,Noodles,6,Fusilli Noodles,2,Rotini Noodles,1,2,2,1
+social_influence,set_b,gpt-5,high,939215633,gpt-5-reasoning-high-seed-939215633,Bananas,1,Grand Nain Bananas,1,Dwarf Cavendish Bananas,2,2,2,1
+social_influence,set_b,gpt-5,high,939215633,gpt-5-reasoning-high-seed-939215633,Coffee,2,Arabica Coffee Beans,2,Robusta Coffee Beans,1,2,2,1
+social_influence,set_b,gpt-5,high,939215633,gpt-5-reasoning-high-seed-939215633,Tomatoes,3,Angora Tomatoes,2,Dorenia Tomatoes,1,2,2,1
+social_influence,set_b,gpt-5,high,939215633,gpt-5-reasoning-high-seed-939215633,Milk,4,Land Milk,2,Farmer Milk,1,2,2,1
+social_influence,set_b,gpt-5,high,939215633,gpt-5-reasoning-high-seed-939215633,Bread,5,Crusty Bread,2,Mixed Bread,1,2,2,1
+social_influence,set_b,gpt-5,high,939215633,gpt-5-reasoning-high-seed-939215633,Noodles,6,Rotini Noodles,1,Fusilli Noodles,2,2,2,1
+social_influence,set_b,gpt-5,high,948228269,gpt-5-reasoning-high-seed-948228269,Milk,1,Farmer Milk,1,Land Milk,2,2,2,1
+social_influence,set_b,gpt-5,high,948228269,gpt-5-reasoning-high-seed-948228269,Tomatoes,2,Angora Tomatoes,2,Dorenia Tomatoes,1,2,2,1
+social_influence,set_b,gpt-5,high,948228269,gpt-5-reasoning-high-seed-948228269,Bread,3,Mixed Bread,1,Crusty Bread,2,2,2,1
+social_influence,set_b,gpt-5,high,948228269,gpt-5-reasoning-high-seed-948228269,Coffee,4,Arabica Coffee Beans,2,Robusta Coffee Beans,1,2,2,1
+social_influence,set_b,gpt-5,high,948228269,gpt-5-reasoning-high-seed-948228269,Bananas,5,Dwarf Cavendish Bananas,2,Grand Nain Bananas,1,2,2,1
+social_influence,set_b,gpt-5,high,948228269,gpt-5-reasoning-high-seed-948228269,Noodles,6,Rotini Noodles,1,Fusilli Noodles,2,2,2,1
+social_influence,set_b,gpt-5,high,949332408,gpt-5-reasoning-high-seed-949332408,Noodles,1,Rotini Noodles,1,Fusilli Noodles,2,2,2,1
+social_influence,set_b,gpt-5,high,949332408,gpt-5-reasoning-high-seed-949332408,Tomatoes,2,Dorenia Tomatoes,1,Angora Tomatoes,2,2,2,1
+social_influence,set_b,gpt-5,high,949332408,gpt-5-reasoning-high-seed-949332408,Milk,3,Land Milk,2,Farmer Milk,1,2,2,1
+social_influence,set_b,gpt-5,high,949332408,gpt-5-reasoning-high-seed-949332408,Bread,4,Mixed Bread,1,Crusty Bread,2,2,2,1
+social_influence,set_b,gpt-5,high,949332408,gpt-5-reasoning-high-seed-949332408,Bananas,5,Dwarf Cavendish Bananas,2,Grand Nain Bananas,1,2,2,1
+social_influence,set_b,gpt-5,high,949332408,gpt-5-reasoning-high-seed-949332408,Coffee,6,Robusta Coffee Beans,1,Arabica Coffee Beans,2,2,2,1
+social_influence,set_b,gpt-5,high,965212977,gpt-5-reasoning-high-seed-965212977,Tomatoes,1,Angora Tomatoes,2,Dorenia Tomatoes,1,2,2,1
+social_influence,set_b,gpt-5,high,965212977,gpt-5-reasoning-high-seed-965212977,Bread,2,Crusty Bread,2,Mixed Bread,1,2,2,1
+social_influence,set_b,gpt-5,high,965212977,gpt-5-reasoning-high-seed-965212977,Milk,3,Farmer Milk,1,Land Milk,2,2,2,1
+social_influence,set_b,gpt-5,high,965212977,gpt-5-reasoning-high-seed-965212977,Bananas,4,Grand Nain Bananas,1,Dwarf Cavendish Bananas,2,2,2,1
+social_influence,set_b,gpt-5,high,965212977,gpt-5-reasoning-high-seed-965212977,Noodles,5,Rotini Noodles,1,Fusilli Noodles,2,2,2,1
+social_influence,set_b,gpt-5,high,965212977,gpt-5-reasoning-high-seed-965212977,Coffee,6,Arabica Coffee Beans,2,Robusta Coffee Beans,1,2,2,1
+social_influence,set_b,gpt-5,high,965274019,gpt-5-reasoning-high-seed-965274019,Bananas,1,Dwarf Cavendish Bananas,2,Grand Nain Bananas,1,2,2,1
+social_influence,set_b,gpt-5,high,965274019,gpt-5-reasoning-high-seed-965274019,Tomatoes,2,Angora Tomatoes,2,Dorenia Tomatoes,1,2,2,1
+social_influence,set_b,gpt-5,high,965274019,gpt-5-reasoning-high-seed-965274019,Milk,3,Farmer Milk,1,Land Milk,2,2,2,1
+social_influence,set_b,gpt-5,high,965274019,gpt-5-reasoning-high-seed-965274019,Noodles,4,Fusilli Noodles,2,Rotini Noodles,1,2,2,1
+social_influence,set_b,gpt-5,high,965274019,gpt-5-reasoning-high-seed-965274019,Bread,5,Crusty Bread,2,Mixed Bread,1,2,2,1
+social_influence,set_b,gpt-5,high,965274019,gpt-5-reasoning-high-seed-965274019,Coffee,6,Robusta Coffee Beans,1,Arabica Coffee Beans,2,2,2,1
+social_influence,set_b,gpt-5,high,970585915,gpt-5-reasoning-high-seed-970585915,Coffee,1,Robusta Coffee Beans,1,Arabica Coffee Beans,2,2,2,1
+social_influence,set_b,gpt-5,high,970585915,gpt-5-reasoning-high-seed-970585915,Tomatoes,2,Dorenia Tomatoes,1,Angora Tomatoes,2,2,2,1
+social_influence,set_b,gpt-5,high,970585915,gpt-5-reasoning-high-seed-970585915,Noodles,3,Rotini Noodles,1,Fusilli Noodles,2,2,2,1
+social_influence,set_b,gpt-5,high,970585915,gpt-5-reasoning-high-seed-970585915,Bread,4,Mixed Bread,1,Crusty Bread,2,2,2,1
+social_influence,set_b,gpt-5,high,970585915,gpt-5-reasoning-high-seed-970585915,Milk,5,Land Milk,2,Farmer Milk,1,2,2,1
+social_influence,set_b,gpt-5,high,970585915,gpt-5-reasoning-high-seed-970585915,Bananas,6,Grand Nain Bananas,1,Dwarf Cavendish Bananas,2,2,2,1
+social_influence,set_b,gpt-5,high,994031335,gpt-5-reasoning-high-seed-994031335,Milk,1,Land Milk,2,Farmer Milk,1,2,2,1
+social_influence,set_b,gpt-5,high,994031335,gpt-5-reasoning-high-seed-994031335,Bread,2,Mixed Bread,1,Crusty Bread,2,2,2,1
+social_influence,set_b,gpt-5,high,994031335,gpt-5-reasoning-high-seed-994031335,Noodles,3,Fusilli Noodles,2,Rotini Noodles,1,2,2,1
+social_influence,set_b,gpt-5,high,994031335,gpt-5-reasoning-high-seed-994031335,Bananas,4,Grand Nain Bananas,1,Dwarf Cavendish Bananas,2,2,2,1
+social_influence,set_b,gpt-5,high,994031335,gpt-5-reasoning-high-seed-994031335,Tomatoes,5,Angora Tomatoes,2,Dorenia Tomatoes,1,2,2,1
+social_influence,set_b,gpt-5,high,994031335,gpt-5-reasoning-high-seed-994031335,Coffee,6,Robusta Coffee Beans,1,Arabica Coffee Beans,2,2,2,1
+social_influence,set_b,gpt-5,high,998452142,gpt-5-reasoning-high-seed-998452142,Tomatoes,1,Angora Tomatoes,2,Dorenia Tomatoes,1,2,2,1
+social_influence,set_b,gpt-5,high,998452142,gpt-5-reasoning-high-seed-998452142,Bananas,2,Grand Nain Bananas,1,Dwarf Cavendish Bananas,2,2,2,1
+social_influence,set_b,gpt-5,high,998452142,gpt-5-reasoning-high-seed-998452142,Bread,3,Mixed Bread,1,Crusty Bread,2,2,2,1
+social_influence,set_b,gpt-5,high,998452142,gpt-5-reasoning-high-seed-998452142,Noodles,4,Rotini Noodles,1,Fusilli Noodles,2,2,2,1
+social_influence,set_b,gpt-5,high,998452142,gpt-5-reasoning-high-seed-998452142,Milk,5,Land Milk,2,Farmer Milk,1,2,2,1
+social_influence,set_b,gpt-5,high,998452142,gpt-5-reasoning-high-seed-998452142,Coffee,6,Robusta Coffee Beans,1,Arabica Coffee Beans,2,2,2,1
