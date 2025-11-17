@@ -1,0 +1,82 @@
+---
+title: "Final Analysis"
+author: "Blinded for Peer Review"
+date: "2025-11-10"
+output:
+  html_document: default
+  pdf_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r, message=FALSE}
+library(readr)
+library(dplyr)
+
+# Load data
+df <- read_csv("combined_data.csv")
+```
+
+# H1: LLM-based GUI agents exhibit systematic shifts in choice behaviour when exposed to type 1 automatic and type 2 reflective nudging interventions.
+
+# H2a: LLM-based GUI agents with high reasoning capacity are less prone to type 1 (automatic) nudges than those with no reasoning capacity.
+
+# H2b: LLM-based GUI agents with high reasoning capacity are more prone to type 2 (reflective) nudges than those with no reasoning capacity.
+
+```{r}
+df1 <- df %>% mutate(
+    seed = as.factor(seed),
+    category = as.factor(category),
+    condition = factor(
+      condition, 
+      levels = c("no_nudge", "defaults", "social_influence"), 
+      labels = c("No nudge", "Defaults", "Social influence")
+    ),
+    reasoning = factor(
+      reasoning, 
+      levels = c("minimal", "low", "high"), 
+      labels = c("no reasoning", "low", "high reasoning")
+    ),
+    target_product_selected = as.numeric(target_product_selected)
+  )
+```
+
+```{r}
+library(Matrix)
+library(lme4)
+
+model1 <- glmer(
+  target_product_selected ~ condition * reasoning + (1 | seed),
+  data = df1,
+  family = binomial
+)
+
+summary(model1)
+```
+
+```{r}
+library(emmeans)
+emm_H1 <- emmeans(model1, ~ reasoning | condition)
+pairs(emm_H1, reverse = TRUE, type = "link")
+pairs(emm_H1, reverse = TRUE, type = "response")
+```
+
+
+```{r}
+library(ggeffects)
+library(ggplot2)
+library(dplyr)
+
+eff_model1 <- ggpredict(model1, terms = c("condition", "reasoning"))
+
+plot(eff_model1) +
+  labs(
+    title = "",
+    x = "Condition", 
+    y = "Predicted Target Product Selection Probability",
+    color = "Reasoning"
+  ) +
+  theme_minimal(base_size = 14)
+```
